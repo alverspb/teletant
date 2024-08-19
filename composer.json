@@ -1,12 +1,12 @@
 {
-    "name": "askoldex/teletant",
+    "name": "alverspb/teletant",
     "description": "Telegram bot framework",
     "type": "library",
     "version": "1.4.8",
     "keywords": ["telegram", "teletant", "telebot", "bot", "PHP", "video", "stickers", "audio", "files"],
     "require": {
-        "php": "^7.4|^8.0",
-        "guzzlehttp/guzzle": "7.2",
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "7.9",
         "askoldex/formatter": "1.0.3",
         "ext-mbstring": "*",
         "ext-json": "*",
@@ -15,8 +15,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Askoldex",
-            "email": "askold.monarkhov@gmail.com"
+            "name": "alverspb",
+            "email": "alverspb@gmail.com"
         }
     ],
     "minimum-stability": "stable",
