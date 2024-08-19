@@ -2,7 +2,7 @@
     "name": "alverspb/teletant",
     "description": "Telegram bot framework",
     "type": "library",
-    "version": "1.4.8",
+    "version": "1.5.0",
     "keywords": ["telegram", "teletant", "telebot", "bot", "PHP", "video", "stickers", "audio", "files"],
     "require": {
         "php": "^8.2",
